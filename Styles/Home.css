@@ -1,0 +1,44 @@
+#section-one{
+    background-image: url(../Assets/Home/1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 812px;
+    display: flex;
+    align-items: center;  
+}
+#div-one-section-one{
+    background-color: #FFF3E3;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 420px;
+    width: 600px;
+    padding-left: 40px;
+    margin-left: 50%;
+}
+#div-two-section-one{
+    display: flex;
+    flex-direction: column;
+}
+#span-one-section-one{
+    font-weight: 600;
+    letter-spacing: 3px;
+}
+#span-two-section-one{
+    font-weight: 700;
+    font-size: 52px;
+    color:#B88E2F;
+    width: 75%;
+}
+#span-three-section-one{
+    font-size: 18px;
+    width: 90%;
+}
+#button-section-one{
+    width: 170px;
+    height: 60px;
+    background-color:#B88E2F;
+    font-weight: 700;
+    border: none;
+    color: white;
+}
