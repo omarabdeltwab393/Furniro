@@ -2,7 +2,7 @@
     background-image: url(../Assets/Home/1.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 812px;
+    height: 50.75rem;
     display: flex;
     align-items: center;  
 }
@@ -11,9 +11,9 @@
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    height: 420px;
-    width: 600px;
-    padding-left: 40px;
+    height: 26.25rem;
+    width: 40%;
+    padding-left: 2.5rem;
     margin-left: 50%;
 }
 #div-two-section-one{
@@ -23,22 +23,59 @@
 #span-one-section-one{
     font-weight: 600;
     letter-spacing: 3px;
+    color: #333333;
 }
 #span-two-section-one{
-    font-weight: 700;
-    font-size: 52px;
+    font-weight:700;
+    font-size: 3.25rem;
     color:#B88E2F;
     width: 75%;
 }
 #span-three-section-one{
-    font-size: 18px;
+    font-size: 1.125rem;
     width: 90%;
+    color: #333333;
 }
 #button-section-one{
-    width: 170px;
-    height: 60px;
+    width: 10.625rem;
+    height: 3.75rem;
     background-color:#B88E2F;
     font-weight: 700;
     border: none;
     color: white;
+}
+#section-two{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 3.5rem;
+}
+#span-one-section-two{
+    font-weight: 700;
+    font-size: 2rem;
+    color: #333333;
+}
+#span-two-section-two{
+    font-weight: 400;
+    font-size: 1.25rem;
+    color: #333333;
+    padding-bottom: 3.875rem;
+}
+#div-one-section-two{
+    display: flex;
+    justify-content: space-around;
+}
+.div-in-div-in-section-two{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 1.25rem;
+}
+.span-in-div-in-section-two{
+    font-weight: 600;
+    size: 1.5rem;
+    color: #333333;
+    padding-top: 1.875rem;
 }
