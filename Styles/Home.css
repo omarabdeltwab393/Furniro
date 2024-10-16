@@ -142,6 +142,7 @@
     height: 30rem;
     padding-top: 2.75rem;
     padding-bottom: 2.75rem;
+    border-bottom: 1px solid #0000002B;
 }
 #div-one-section-four{
     display: flex;
