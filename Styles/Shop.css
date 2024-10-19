@@ -140,3 +140,42 @@
 .img-item{
     height: 65%;
 }
+#section-four{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 12.5rem;
+    font-weight: 400;
+    font-size: 1.25rem;
+}
+#div-one-section-four{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #B88E2F;
+    color: white;
+    height: 4rem;
+    width: 4rem;
+    margin-right: 2.25rem;
+    border-radius: 10%;
+}
+.div-section-four{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F9F1E7;
+    height: 4rem;
+    width: 4rem;
+    margin-right: 2.25rem;
+    border-radius: 10%;
+}
+#div-four-section-four{
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F9F1E7;
+    height: 4rem;
+    width: 6rem;
+    border-radius: 10%;
+}
